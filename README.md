@@ -73,7 +73,7 @@ python analysis.ipynb
 ## Project Structure
 
 ```
-.data-science-project/
+data-science-project/
 ├── analysis.ipynb         
 ├── requirements.txt       
 ├── GlobalTemperatures.csv
