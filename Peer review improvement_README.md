@@ -71,7 +71,7 @@ data-science-project/
 ├── Peer review improvement_analysis.ipynb         
 ├── requirements.txt       
 ├── GlobalTemperatures.csv
-├── 01_Peer review improvement_global_land_trend.png
+├── Peer review improvement_01_global_land_trend.png
 ├── 02_decadal_land_temperature.png
 ├── 03_temperature_anomaly.png
 ├── 04_seasonal_climatology.png
