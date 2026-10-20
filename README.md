@@ -47,8 +47,6 @@ The recent warming acceleration and the fact that the 2010s are the warmest deca
 
 The pre-1900 record relies on sparse, Northern-Hemisphere-biased station coverage, so early values carry higher uncertainty; the global land average also hides strong regional variability (e.g. urban heat islands). A simple linear trend does not capture short-term variability from El Niño events or volcanic eruptions.
 
-Reproduce the Analysis
-
 ## Reproduce the Analysis
 
 ```bash
