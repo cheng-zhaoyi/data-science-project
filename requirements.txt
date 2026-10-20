@@ -1,0 +1,8 @@
+# Analysis environment for this project
+# Python 3.12 was used. Install with:  pip install -r requirements.txt
+
+pandas==2.2.3
+numpy==1.26.4
+matplotlib==3.11.0
+# Optional, only needed to run the notebook interactively:
+jupyter>=1.0
