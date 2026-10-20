@@ -68,10 +68,10 @@ python analysis.ipynb
 
 ```
 data-science-project/
-├── analysis.ipynb         
+├── Peer review improvement_analysis.ipynb         
 ├── requirements.txt       
 ├── GlobalTemperatures.csv
-├── 01_global_land_trend.png
+├── 01_Peer review improvement_global_land_trend.png
 ├── 02_decadal_land_temperature.png
 ├── 03_temperature_anomaly.png
 ├── 04_seasonal_climatology.png
