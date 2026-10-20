@@ -2,8 +2,6 @@
 
 A reproducible data-science project analysing more than two and a half centuries of global land surface temperature data to quantify the warming trend and test whether the rate of warming has accelerated in recent decades.
 
-\---
-
 ## Research / Business Question
 
 **Has the Earth's land surface warmed over the last \~265 years, and has the rate of warming accelerated in recent decades?**
@@ -17,8 +15,6 @@ Understanding the long-term trend and its rate of change matters because the imp
 * **Record:** monthly global averages, January 1750 – December 2015 (3,192 rows)
 * **Key columns:** `dt`, `LandAverageTemperature`, `LandAverageTemperatureUncertainty`, `LandMaxTemperature`, `LandMinTemperature`, `LandAndOceanAverageTemperature`, and their uncertainties.
 * **Usage:** public dataset released for analysis; no PII, API keys or restricted data.
-
-The data file is included under `data/`.
 
 ## Methods \& Tools
 
