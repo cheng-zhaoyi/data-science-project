@@ -57,7 +57,7 @@ Following classmate review feedback, the original linear trend line was replaced
 
 ```bash
 # 1. Clone / enter the project directory
-cd .data-science-project
+cd data-science-project
 
 # 2. Create a virtual environment (optional but recommended)
 python -m venv venv
@@ -67,10 +67,8 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 # 4. Run the standalone script (regenerates ./plots and prints all key numbers)
-python analysis.py
+python analysis.ipynb    
 ```
-
-Both entry points read `data/GlobalTemperatures.csv` and write figures to `plots/`.
 
 ## Project Structure
 
@@ -78,13 +76,11 @@ Both entry points read `data/GlobalTemperatures.csv` and write figures to `plots
 .data-science-project/
 ├── analysis.ipynb         
 ├── requirements.txt       
-├── data/
-│   └── GlobalTemperatures.csv
-└── plots/                 
-      ├── 01_global_land_trend.png
-      ├── 02_decadal_land_temperature.png
-      ├── 03_temperature_anomaly.png
-      └── 04_seasonal_climatology.png
+├── GlobalTemperatures.csv
+├── 01_global_land_trend.png
+├── 02_decadal_land_temperature.png
+├── 03_temperature_anomaly.png
+├── 04_seasonal_climatology.png
 ```
 
 
