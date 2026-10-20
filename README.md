@@ -49,10 +49,6 @@ The pre-1900 record relies on sparse, Northern-Hemisphere-biased station coverag
 
 Reproduce the Analysis
 
-## Improvement after peer review
-
-Following classmate review feedback, the original linear trend line was replaced with a second‑order quadratic polynomial curve to visualise accelerated warming behaviour. An annotation was added to mark the highest‑temperature year in the dataset. Code and visual output are committed as a separate git change.
-
 ## Reproduce the Analysis
 
 ```bash
